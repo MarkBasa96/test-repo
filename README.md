@@ -1,0 +1,1 @@
+this repository serves as a guide for Laboratory Activities of our subject CCE109, also this is where I store my projects learning Java and any other languages. I am still learning how to use this so please bear with me.
