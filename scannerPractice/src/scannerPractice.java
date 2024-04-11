@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class scannerPractice {
     
     public static void main (String[] args){
